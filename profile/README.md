@@ -5,7 +5,7 @@ All of them are open source and hosted on GitHub Pages.
 
 | Site | What it is | Repository |
 | --- | --- | --- |
-| [nevcan.com](https://nevcan.com) | The front door. The next version, one line ("I'm a ___") where each word opens its own site, is in preview at [v8.nevcan.com](https://v8.nevcan.com) | [v7](https://github.com/nevcan-com/v7.nevcan.com), [v8](https://github.com/nevcan-com/v8.nevcan.com) |
+| [www.nevcan.com](https://www.nevcan.com) | The front door: one line, "I'm a ___", where each word opens its own site | [v8.nevcan.com](https://github.com/nevcan-com/v8.nevcan.com) |
 | [dev.nevcan.com](https://dev.nevcan.com) | Software, built as a small code editor | [dev.nevcan.com](https://github.com/nevcan-com/dev.nevcan.com) |
 | [dive.nevcan.com](https://dive.nevcan.com) | Diving: GUE education, exploration, conservation and booking | [dive.nevcan.com](https://github.com/nevcan-com/dive.nevcan.com) |
 
@@ -22,4 +22,4 @@ with no surviving source were restored from the Internet Archive's Wayback Machi
 | [v4](https://github.com/nevcan-com/v4.nevcan.com) | 2014 | [v4.nevcan.com](https://v4.nevcan.com): "I'm a web ___" one-pager |
 | [v5](https://github.com/nevcan-com/v5.nevcan.com) | 2016–2022 | [v5.nevcan.com](https://v5.nevcan.com): diving instructor site, static and then Vue |
 | [v6](https://github.com/nevcan-com/v6.nevcan.com) | 2021 | [v6.nevcan.com](https://v6.nevcan.com): UI developer landing, never published |
-| [v7](https://github.com/nevcan-com/v7.nevcan.com) | 2022–2026 | GUE instructor site, at [nevcan.com](https://nevcan.com) until v8 replaces it |
+| [v7](https://github.com/nevcan-com/v7.nevcan.com) | 2022–2026 | [v7.nevcan.com](https://v7.nevcan.com): GUE instructor site |
