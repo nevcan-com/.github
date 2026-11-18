@@ -16,10 +16,11 @@ with no surviving source were restored from the Internet Archive's Wayback Machi
 
 | Version | Years | Site |
 | --- | --- | --- |
+| [v2](https://github.com/nevcan-com/v2.nevcan.com) | 2013 | [v2.nevcan.com](https://v2.nevcan.com): "Projelerim & Ben", a portfolio in Turkish and English |
 | [v3](https://github.com/nevcan-com/v3.nevcan.com) | 2013 | [v3.nevcan.com](https://v3.nevcan.com): frontend developer portfolio |
 | [v4](https://github.com/nevcan-com/v4.nevcan.com) | 2014 | [v4.nevcan.com](https://v4.nevcan.com): "I'm a web ___" one-pager |
 | [v5](https://github.com/nevcan-com/v5.nevcan.com) | 2016–2022 | [v5.nevcan.com](https://v5.nevcan.com): diving instructor site, static and then Vue |
 | [v6](https://github.com/nevcan-com/v6.nevcan.com) | 2021 | [v6.nevcan.com](https://v6.nevcan.com): UI developer landing, never published |
 | [v7](https://github.com/nevcan-com/v7.nevcan.com) | 2022–2026 | GUE instructor site, at [nevcan.com](https://nevcan.com) until v8 replaces it |
 
-v1 (2011–2012) and v2 (2013) are being restored.
+v1 (2011–2012) is being restored.
